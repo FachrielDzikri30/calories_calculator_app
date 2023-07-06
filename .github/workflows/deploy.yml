@@ -1,4 +1,4 @@
-name: Deploy Kanban App to Pages
+name: Deploy Calories Calculator App to Pages
 
 on:
   push:
