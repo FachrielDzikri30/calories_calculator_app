@@ -1,4 +1,4 @@
-name: Deploy Calories Calculator App to Pages
+name: Deploy App to Pages
 
 on:
   push:
